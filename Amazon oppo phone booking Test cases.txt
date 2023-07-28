@@ -84,4 +84,4 @@ Actions:
 8.3 Attempt to book an Oppo phone with invalid payment information.
 Expected Result: The system should handle errors gracefully and display appropriate error messages to the user, guiding them on how to proceed or contact support if necessary.
 
-These test cases cover a range of scenarios for booking an Oppo phone on Amazon, including successful bookings, error handling, order cancellation, and promo code application.
+These test cases cover a range of scenarios for booking an Oppo phone on Amazon, including successful bookings, error handling and order cancellation.
